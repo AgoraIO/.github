@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">Agora real-time engagement</title>
+  <desc id="description">Agora RTE — real-time voice and video across web, mobile, and native platforms.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081720"/>
+      <stop offset="1" stop-color="#0c5964"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#237488"/>
+      <stop offset="1" stop-color="#123946"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
+  <text x="54" y="58" fill="#52d4fb" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">REAL-TIME ENGAGEMENT</text>
+  <text x="54" y="112" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="750">Bring every interaction to life</text>
+  <text x="54" y="153" fill="#b8d9e4" font-family="Inter, Arial, sans-serif" font-size="20">Voice and video across web, mobile, and native</text>
+  <rect x="730" y="30" width="376" height="198" rx="13" fill="#091b23" stroke="#4a8793" stroke-width="2"/>
+  <rect x="730" y="30" width="376" height="24" rx="13" fill="#123944"/>
+  <circle cx="751" cy="42" r="4" fill="#4d7d87"/><circle cx="765" cy="42" r="4" fill="#4d7d87"/><circle cx="779" cy="42" r="4" fill="#4d7d87"/>
+  <g fill="url(#tile)">
+    <rect x="748" y="71" width="158" height="62" rx="6"/><rect x="923" y="71" width="164" height="62" rx="6"/><rect x="748" y="148" width="158" height="62" rx="6"/><rect x="923" y="148" width="164" height="62" rx="6"/>
+  </g>
+  <g fill="#7ad7e8">
+    <circle cx="827" cy="91" r="10"/><rect x="810" y="105" width="34" height="19" rx="10"/>
+    <circle cx="1005" cy="91" r="10"/><rect x="988" y="105" width="34" height="19" rx="10"/>
+    <circle cx="827" cy="168" r="10"/><rect x="810" y="182" width="34" height="19" rx="10"/>
+    <circle cx="1005" cy="168" r="10"/><rect x="988" y="182" width="34" height="19" rx="10"/>
+  </g>
+  <rect x="665" y="86" width="78" height="148" rx="15" fill="#091b23" stroke="#4a8793" stroke-width="2"/>
+  <rect x="675" y="105" width="58" height="104" rx="8" fill="url(#tile)"/>
+  <circle cx="704" cy="137" r="10" fill="#7ad7e8"/><rect x="687" y="152" width="34" height="20" rx="10" fill="#7ad7e8"/>
+</svg>
