@@ -4,27 +4,16 @@
 
 <div align="center">
 
-[Agora.io](https://www.agora.io/en/) •
-[Documentation](https://docs.agora.io/en/) •
-[Discord](https://discord.gg/QfgBCvuX4d) •
-[X / Twitter](https://x.com/AgoraIO)
+[![Join Discord](https://img.shields.io/badge/Community-Join_Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/QfgBCvuX4d)
+[![Follow @AgoraIO](https://img.shields.io/badge/Follow-@AgoraIO-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/AgoraIO)
 
 <br>
 
-[![Voice AI Recipes](https://img.shields.io/badge/Voice_AI-Recipes-0969DA?style=flat-square)](https://recipes.agora.io/)
-[![Agora Skills](https://img.shields.io/badge/Agora-Skills-147D9D?style=flat-square)](https://github.com/AgoraIO/skills)
-[![Agora CLI](https://img.shields.io/badge/Agora-CLI-147D9D?style=flat-square)](https://github.com/AgoraIO/cli)
-[![Join Discord](https://img.shields.io/badge/Community-Join_Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/QfgBCvuX4d)
+[Agora.io](https://www.agora.io/en/) •
+[Documentation](https://docs.agora.io/en/) •
+[Voice AI Recipes](https://recipes.agora.io/)
 
 </div>
-
-## Community & resources
-
-| Channel | Purpose |
-| --- | --- |
-| [Join Discord →](https://discord.gg/QfgBCvuX4d) | Ask questions, share what you're building, and connect with Agora developers. |
-| [Documentation →](https://docs.agora.io/en/) | Explore SDKs, APIs, quickstarts, and product guides. |
-| [X / Twitter →](https://x.com/AgoraIO) | Follow Agora product and developer updates. |
 
 ## Move faster with Agora developer tools
 
