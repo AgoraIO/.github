@@ -12,8 +12,7 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
-  <text x="54" y="58" fill="#52d4fb" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">REAL-TIME ENGAGEMENT</text>
-  <text x="54" y="112" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="750">Bring every interaction to life</text>
+  <text x="54" y="112" fill="#52d4fb" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">REAL-TIME ENGAGEMENT</text>
   <text x="54" y="153" fill="#b8d9e4" font-family="Inter, Arial, sans-serif" font-size="20">Voice and video across web, mobile, and native</text>
   <rect x="730" y="30" width="376" height="198" rx="13" fill="#091b23" stroke="#4a8793" stroke-width="2"/>
   <rect x="730" y="30" width="376" height="24" rx="13" fill="#123944"/>
