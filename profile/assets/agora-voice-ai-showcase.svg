@@ -14,8 +14,7 @@
     </radialGradient>
   </defs>
   <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
-  <text x="54" y="58" fill="#52d4fb" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">CONVERSATIONAL AI</text>
-  <text x="54" y="112" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="750">Build real-time AI agents</text>
+  <text x="54" y="112" fill="#52d4fb" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">CONVERSATIONAL AI</text>
   <text x="54" y="153" fill="#b8d9e4" font-family="Inter, Arial, sans-serif" font-size="20">Voice, vision, tools, and multimodal interaction</text>
   <circle cx="692" cy="130" r="58" fill="url(#orb)"/>
   <g stroke="#78e3ff" stroke-width="4" stroke-linecap="round" opacity="0.9">
