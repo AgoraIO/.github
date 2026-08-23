@@ -13,8 +13,7 @@
   </defs>
   <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
   <rect width="1200" height="260" rx="22" fill="url(#glow)"/>
-  <text x="54" y="58" fill="#52d4fb" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">DEVELOPER TOOLS</text>
-  <text x="54" y="112" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="750">Move faster with Agora</text>
+  <text x="54" y="112" fill="#52d4fb" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">DEVELOPER TOOLS</text>
   <text x="54" y="153" fill="#b8d9e4" font-family="Inter, Arial, sans-serif" font-size="20">AI coding knowledge + one-command onboarding</text>
   <rect x="680" y="30" width="466" height="200" rx="14" fill="#071015" stroke="#467487" stroke-width="2"/>
   <circle cx="706" cy="54" r="5" fill="#395766"/>
