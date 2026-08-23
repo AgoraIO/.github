@@ -17,8 +17,6 @@
 
 ## Move faster with Agora developer tools
 
-![Agora Skills and CLI — AI coding knowledge and one-command onboarding.](./assets/agora-tools-showcase.svg)
-
 ### Agora Skills
 
 [Agora Skills](https://github.com/AgoraIO/skills) gives Claude Code, Cursor, Copilot, Windsurf, and other AI coding assistants the knowledge to build Agora experiences.
@@ -39,7 +37,11 @@ Windows and restricted-network installation options are documented in the [Agora
 
 ## Build real-time AI agents
 
-![Agora Voice AI — recipe shortcuts for voice, vision, tool calling, and MCP.](./assets/agora-voice-ai-showcase.svg)
+<p align="center">
+  <a href="https://recipes.agora.io/">
+    <img src="./assets/voice-ai-recipes-preview.png" alt="Agora Voice AI Recipes — working examples for voice, vision, tool calling, and MCP.">
+  </a>
+</p>
 
 Start from a working recipe, then move to an official server SDK when you're ready to build your own agent.
 
@@ -58,8 +60,6 @@ Start from a working recipe, then move to an official server SDK when you're rea
 | [agora-agents-go](https://github.com/AgoraIO/agora-agents-go) | Go |
 
 ## Build real-time engagement
-
-![Agora RTE — real-time voice and video across web, mobile, and native platforms.](./assets/agora-rte-showcase.svg)
 
 Add reliable real-time voice and video experiences across web, mobile, and native platforms.
 
