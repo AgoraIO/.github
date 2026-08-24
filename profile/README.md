@@ -41,20 +41,28 @@ Windows and restricted-network installation options are documented in the [Agora
 
 Start from a working recipe, then move to an Agora Agents SDK when you're ready to build your own agent.
 
-| Recipe | What it demonstrates |
-| --- | --- |
-| **Quickstarts** | *Start with working code* |
-| [Python Quickstart](https://recipes.agora.io/recipes/python-quickstart) | Basic Python voice AI agent |
-| [NextJS Quickstart](https://recipes.agora.io/recipes/nextjs-quickstart) | Browser-based voice AI experience |
-| **Capabilities** | *Extend your agent* |
-| [Interruption Handling](https://recipes.agora.io/recipes/interruptions) | Natural user barge-in |
-| [MCP Tools](https://recipes.agora.io/recipes/mcp-tools) | Tools connected through MCP |
-| [Retrieval-Augmented Generation](https://recipes.agora.io/recipes/rag) | Answers grounded in your knowledge |
-| [Agent Handoff](https://recipes.agora.io/recipes/agent-handoff) | Routing across specialized agents |
-| **Use cases** | *Explore complete experiences* |
-| [Real-time Translator](https://recipes.agora.io/recipes/realtime-translator) | Speak in one language and hear another |
-| [Agora × Gemma Voice Coach](https://recipes.agora.io/recipes/agora-gemma-voice-coach) | Voice sessions with a local Gemma reasoning layer |
-| [Voice RPG](https://recipes.agora.io/recipes/voice-rpg) | A voice-driven game with an AI dungeon master |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Recipe</th>
+      <th align="left">What it demonstrates</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><th colspan="2" align="left">Quickstarts — Start with working code</th></tr>
+    <tr><td><a href="https://recipes.agora.io/recipes/python-quickstart">Python Quickstart</a></td><td>Basic Python voice AI agent</td></tr>
+    <tr><td><a href="https://recipes.agora.io/recipes/nextjs-quickstart">NextJS Quickstart</a></td><td>Browser-based voice AI experience</td></tr>
+    <tr><th colspan="2" align="left">Capabilities — Extend your agent</th></tr>
+    <tr><td><a href="https://recipes.agora.io/recipes/interruptions">Interruption Handling</a></td><td>Natural user barge-in</td></tr>
+    <tr><td><a href="https://recipes.agora.io/recipes/mcp-tools">MCP Tools</a></td><td>Tools connected through MCP</td></tr>
+    <tr><td><a href="https://recipes.agora.io/recipes/rag">Retrieval-Augmented Generation</a></td><td>Answers grounded in your knowledge</td></tr>
+    <tr><td><a href="https://recipes.agora.io/recipes/agent-handoff">Agent Handoff</a></td><td>Routing across specialized agents</td></tr>
+    <tr><th colspan="2" align="left">Use cases — Explore complete experiences</th></tr>
+    <tr><td><a href="https://recipes.agora.io/recipes/realtime-translator">Real-time Translator</a></td><td>Speak in one language and hear another</td></tr>
+    <tr><td><a href="https://recipes.agora.io/recipes/agora-gemma-voice-coach">Agora × Gemma Voice Coach</a></td><td>Voice sessions with a local Gemma reasoning layer</td></tr>
+    <tr><td><a href="https://recipes.agora.io/recipes/voice-rpg">Voice RPG</a></td><td>A voice-driven game with an AI dungeon master</td></tr>
+  </tbody>
+</table>
 
 [Browse all Voice AI Recipes →](https://recipes.agora.io/)
 
