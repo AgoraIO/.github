@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="./assets/agora-logo.png" width="180" alt="Agora">
-  <h1>Agora for Developers</h1>
-  <p>Start with working code. Build production-ready voice AI agents, multimodal experiences, and real-time apps.</p>
-</div>
+<p align="center">
+  <img src="./assets/agora-developer-banner.webp" width="100%" alt="Agora for Developers — Build voice AI agents, multimodal experiences, and real-time apps">
+</p>
 
 <div align="center">
 
