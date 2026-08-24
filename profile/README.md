@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/agora-developer-banner.webp" width="100%" alt="Agora for Developers — Build voice AI agents, multimodal experiences, and real-time apps">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/agora-developer-banner-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/agora-developer-banner.webp">
+    <img src="./assets/agora-developer-banner.webp" width="100%" alt="Agora for Developers — Build voice AI agents, multimodal experiences, and real-time apps">
+  </picture>
 </p>
 
 <div align="center">
