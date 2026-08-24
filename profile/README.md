@@ -23,27 +23,23 @@
 
 ### 🧩 [Agora Skills](https://github.com/AgoraIO/skills)
 
-<!-- Agora Skills gives Claude Code, Cursor, Copilot, Windsurf, and other AI coding assistants the knowledge to build Agora experiences. -->
-
 ```bash
+# Add Agora knowledge to your AI coding assistant
 npx skills add github:AgoraIO/skills
 ```
 
 ### ⌨️ [Agora CLI](https://github.com/AgoraIO/cli)
 
-<!-- Agora CLI helps you authenticate, manage Agora projects, and move from an account to a runnable quickstart. -->
-
 ```bash
+# Install Agora CLI for project setup and runnable quickstarts
 curl -fsSL https://dl.agora.io/cli/install.sh | sh
+# Windows and restricted-network options: https://github.com/AgoraIO/cli#install
 ```
-
-<!-- Windows and restricted-network installation options are documented in the Agora CLI repository: https://github.com/AgoraIO/cli#install -->
 
 ### 💬 Try it with your coding agent
 
-<!-- Paste this prompt into Claude Code, Codex, Cursor, Copilot, Windsurf, or another coding agent. -->
-
 ```text
+# Paste this prompt into your coding agent
 Use Agora Skills and Agora CLI to build a Next.js voice AI agent. Start from the official quickstart, help me sign in, configure an Agora project, and run it locally.
 ```
 
