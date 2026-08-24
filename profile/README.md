@@ -45,7 +45,8 @@ Use Agora Skills and Agora CLI to build a Next.js voice AI agent. Start from the
 
 <br>
 
----
+![divider](./assets/agora-divider-light.png#gh-light-mode-only)
+![divider](./assets/agora-divider-dark.png#gh-dark-mode-only)
 
 <br>
 
@@ -88,7 +89,8 @@ Start from a working recipe, then move to an Agora Agents SDK when you're ready 
 
 <br>
 
----
+![divider](./assets/agora-divider-light.png#gh-light-mode-only)
+![divider](./assets/agora-divider-dark.png#gh-dark-mode-only)
 
 <br>
 
