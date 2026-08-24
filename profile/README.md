@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/agora-logo.png" width="180" alt="Agora">
-  <h1>Build conversations that feel alive.</h1>
-  <p>Voice, video and conversational AI for developers.</p>
+  <h1>Built for Human-to-Human and Human-to-Agent</h1>
+  <p>Real-time infrastructure for voice, video, and conversational AI—from prototype to global production.</p>
 </div>
 
 <div align="center">
