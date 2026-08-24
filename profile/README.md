@@ -37,6 +37,10 @@ curl -fsSL https://dl.agora.io/cli/install.sh | sh
 
 Windows and restricted-network installation options are documented in the [Agora CLI repository](https://github.com/AgoraIO/cli#install).
 
+### Try it with your coding agent
+
+> Use Agora Skills and Agora CLI to build a Next.js voice AI agent. Start from the official quickstart, help me sign in, configure an Agora project, and run it locally.
+
 ## Build voice and multimodal AI agents
 
 Start from a working recipe, then move to an Agora Agents SDK when you're ready to build your own agent.
