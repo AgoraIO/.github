@@ -64,7 +64,7 @@ Start from a working recipe, then move to an Agora Agents SDK when you're ready 
     <tr><td><a href="https://recipes.agora.io/recipes/interruptions">Interruption Handling</a></td><td>Natural user barge-in</td></tr>
     <tr><td><a href="https://recipes.agora.io/recipes/mcp-tools">MCP Tools</a></td><td>Tools connected through MCP</td></tr>
     <tr><td><a href="https://recipes.agora.io/recipes/rag">Retrieval-Augmented Generation</a></td><td>Answers grounded in your knowledge</td></tr>
-    <tr><td><a href="https://recipes.agora.io/recipes/agent-handoff">Agent Handoff</a></td><td>Routing across specialized agents</td></tr>
+    <tr><td><a href="https://recipes.agora.io/recipes/custom-llm">Custom LLM</a></td><td>Bring your own OpenAI-compatible model</td></tr>
     <tr><th colspan="2" align="left">Use cases — Explore complete experiences</th></tr>
     <tr><td><a href="https://recipes.agora.io/recipes/realtime-translator">Real-time Translator</a></td><td>Speak in one language and hear another</td></tr>
     <tr><td><a href="https://recipes.agora.io/recipes/agora-gemma-voice-coach">Agora × Gemma Voice Coach</a></td><td>Voice sessions with a local Gemma reasoning layer</td></tr>
