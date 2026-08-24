@@ -41,17 +41,23 @@ Windows and restricted-network installation options are documented in the [Agora
 
 Start from a working recipe, then move to an Agora Agents SDK when you're ready to build your own agent.
 
-| Type | Recipe | What it demonstrates |
-| --- | --- | --- |
-| **Quickstart** | [Python Quickstart](https://recipes.agora.io/recipes/python-quickstart) | Basic Python voice AI agent |
-| **Quickstart** | [NextJS Quickstart](https://recipes.agora.io/recipes/nextjs-quickstart) | Browser-based voice AI experience |
-| **Capability** | [Interruption Handling](https://recipes.agora.io/recipes/interruptions) | Natural user barge-in |
-| **Capability** | [MCP Tools](https://recipes.agora.io/recipes/mcp-tools) | Tools connected through MCP |
-| **Capability** | [Retrieval-Augmented Generation](https://recipes.agora.io/recipes/rag) | Answers grounded in your knowledge |
-| **Capability** | [Agent Handoff](https://recipes.agora.io/recipes/agent-handoff) | Routing across specialized agents |
-| **Use case** | [Real-time Translator](https://recipes.agora.io/recipes/realtime-translator) | Speak in one language and hear another |
-| **Use case** | [Agora × Gemma Voice Coach](https://recipes.agora.io/recipes/agora-gemma-voice-coach) | Voice sessions with a local Gemma reasoning layer |
-| **Use case** | [Voice RPG](https://recipes.agora.io/recipes/voice-rpg) | A voice-driven game with an AI dungeon master |
+| Quickstarts | What you'll build |
+| --- | --- |
+| [Python Quickstart](https://recipes.agora.io/recipes/python-quickstart) | Basic Python voice AI agent |
+| [NextJS Quickstart](https://recipes.agora.io/recipes/nextjs-quickstart) | Browser-based voice AI experience |
+
+| Capabilities | What it demonstrates |
+| --- | --- |
+| [Interruption Handling](https://recipes.agora.io/recipes/interruptions) | Natural user barge-in |
+| [MCP Tools](https://recipes.agora.io/recipes/mcp-tools) | Tools connected through MCP |
+| [Retrieval-Augmented Generation](https://recipes.agora.io/recipes/rag) | Answers grounded in your knowledge |
+| [Agent Handoff](https://recipes.agora.io/recipes/agent-handoff) | Routing across specialized agents |
+
+| Use cases | What it demonstrates |
+| --- | --- |
+| [Real-time Translator](https://recipes.agora.io/recipes/realtime-translator) | Speak in one language and hear another |
+| [Agora × Gemma Voice Coach](https://recipes.agora.io/recipes/agora-gemma-voice-coach) | Voice sessions with a local Gemma reasoning layer |
+| [Voice RPG](https://recipes.agora.io/recipes/voice-rpg) | A voice-driven game with an AI dungeon master |
 
 [Browse all Voice AI Recipes →](https://recipes.agora.io/)
 
