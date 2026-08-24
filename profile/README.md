@@ -17,7 +17,7 @@
 
 </div>
 
-## Move faster with Agora developer tools
+## Build faster with AI coding agents
 
 ### Agora Skills
 
@@ -37,7 +37,7 @@ curl -fsSL https://dl.agora.io/cli/install.sh | sh
 
 Windows and restricted-network installation options are documented in the [Agora CLI repository](https://github.com/AgoraIO/cli#install).
 
-## Build real-time AI agents
+## Build voice and multimodal AI agents
 
 Start from a working recipe, then move to an official server SDK when you're ready to build your own agent.
 
@@ -55,7 +55,7 @@ Start from a working recipe, then move to an official server SDK when you're rea
 | [agora-agents-ts](https://github.com/AgoraIO/agora-agents-ts) | TypeScript |
 | [agora-agents-go](https://github.com/AgoraIO/agora-agents-go) | Go |
 
-## Build real-time engagement
+## Build real-time apps
 
 Add reliable real-time voice and video experiences across web, mobile, and native platforms.
 
