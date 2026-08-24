@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="./assets/agora-org-banner.svg" alt="Agora — Build conversations that feel alive. Voice, video and conversational AI for developers.">
-</p>
+<div align="center">
+  <img src="./assets/agora-logo.png" width="180" alt="Agora">
+  <h1>Build conversations that feel alive.</h1>
+  <p>Voice, video and conversational AI for developers.</p>
+</div>
 
 <div align="center">
 
