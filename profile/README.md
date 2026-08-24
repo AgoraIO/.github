@@ -43,12 +43,6 @@ curl -fsSL https://dl.agora.io/cli/install.sh | sh
 Use Agora Skills and Agora CLI to build a Next.js voice AI agent. Start from the official quickstart, help me sign in, configure an Agora project, and run it locally.
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/agora-divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/agora-divider-light.svg">
-  <img src="./assets/agora-divider-light.svg" width="100%" alt="">
-</picture>
-
 ## 🎙️ Build voice and multimodal AI agents
 
 Start from a working recipe, then move to an Agora Agents SDK when you're ready to build your own agent.
@@ -85,12 +79,6 @@ Start from a working recipe, then move to an Agora Agents SDK when you're ready 
 | [agora-agents-python](https://github.com/AgoraIO/agora-agents-python) | Python |
 | [agora-agents-ts](https://github.com/AgoraIO/agora-agents-ts) | TypeScript |
 | [agora-agents-go](https://github.com/AgoraIO/agora-agents-go) | Go |
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/agora-divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/agora-divider-light.svg">
-  <img src="./assets/agora-divider-light.svg" width="100%" alt="">
-</picture>
 
 ## 📡 Build real-time apps
 
