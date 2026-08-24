@@ -39,7 +39,7 @@ Windows and restricted-network installation options are documented in the [Agora
 
 ## Build voice and multimodal AI agents
 
-Start from a working recipe, then move to an official server SDK when you're ready to build your own agent.
+Start from a working recipe, then move to an Agora Agents SDK when you're ready to build your own agent.
 
 | Start here | Popular capabilities |
 | --- | --- |
@@ -47,7 +47,7 @@ Start from a working recipe, then move to an official server SDK when you're rea
 
 [Browse all Voice AI Recipes →](https://recipes.agora.io/)
 
-### Official server SDKs
+### Agora Agents SDKs
 
 | Repository | Language |
 | --- | --- |
