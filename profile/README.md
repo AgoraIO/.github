@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/agora-logo.png" width="180" alt="Agora">
-  <h1>Build real-time experiences with Agora</h1>
-  <p>SDKs, tools, and examples for voice, video, and conversational AI.</p>
+  <h1>Agora for Developers</h1>
+  <p>Start with working code. Build production-ready voice AI agents, multimodal experiences, and real-time apps.</p>
 </div>
 
 <div align="center">
