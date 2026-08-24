@@ -39,7 +39,11 @@ Windows and restricted-network installation options are documented in the [Agora
 
 ### Try it with your coding agent
 
-> Use Agora Skills and Agora CLI to build a Next.js voice AI agent. Start from the official quickstart, help me sign in, configure an Agora project, and run it locally.
+Paste this prompt into Claude Code, Codex, Cursor, Copilot, or Windsurf:
+
+```text
+Use Agora Skills and Agora CLI to build a Next.js voice AI agent. Start from the official quickstart, help me sign in, configure an Agora project, and run it locally.
+```
 
 ## Build voice and multimodal AI agents
 
