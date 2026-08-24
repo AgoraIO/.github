@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/agora-logo.png" width="180" alt="Agora">
-  <h1>Built for Human-to-Human and Human-to-Agent</h1>
-  <p>Real-time infrastructure for voice, video, and conversational AI—from prototype to global production.</p>
+  <h1>Build real-time experiences with Agora</h1>
+  <p>SDKs, tools, and examples for voice, video, and conversational AI.</p>
 </div>
 
 <div align="center">
