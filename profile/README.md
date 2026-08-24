@@ -41,9 +41,14 @@ Windows and restricted-network installation options are documented in the [Agora
 
 Start from a working recipe, then move to an Agora Agents SDK when you're ready to build your own agent.
 
-| Start here | Popular capabilities |
+| Recipe | What you'll build |
 | --- | --- |
-| [Python Quickstart](https://recipes.agora.io/recipes/python-quickstart)<br>[NextJS Quickstart](https://recipes.agora.io/recipes/nextjs-quickstart) | [Real-time Voice](https://recipes.agora.io/recipes/realtime-voice)<br>[Tool Calling](https://recipes.agora.io/recipes/tool-calling)<br>[Vision](https://recipes.agora.io/recipes/vision)<br>[MCP Tools](https://recipes.agora.io/recipes/mcp-tools) |
+| [Python Quickstart](https://recipes.agora.io/recipes/python-quickstart) | A basic Conversational AI agent in Python |
+| [NextJS Quickstart](https://recipes.agora.io/recipes/nextjs-quickstart) | A basic Conversational AI agent with Next.js |
+| [Real-time Voice (MLLM)](https://recipes.agora.io/recipes/realtime-voice) | Voice-to-voice interaction with a real-time multimodal model |
+| [Tool Calling](https://recipes.agora.io/recipes/tool-calling) | A voice agent with callable tools |
+| [Vision (Camera Input)](https://recipes.agora.io/recipes/vision) | An agent that can see the user's camera |
+| [MCP Tools](https://recipes.agora.io/recipes/mcp-tools) | Tools orchestrated through a Model Context Protocol server |
 
 [Browse all Voice AI Recipes →](https://recipes.agora.io/)
 
