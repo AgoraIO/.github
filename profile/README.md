@@ -39,12 +39,6 @@ Windows and restricted-network installation options are documented in the [Agora
 
 ## Build real-time AI agents
 
-<p align="center">
-  <a href="https://recipes.agora.io/">
-    <img src="./assets/voice-ai-recipes-preview.png" alt="Agora Voice AI Recipes — working examples for voice, vision, tool calling, and MCP.">
-  </a>
-</p>
-
 Start from a working recipe, then move to an official server SDK when you're ready to build your own agent.
 
 | Start here | Popular capabilities |
