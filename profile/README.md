@@ -15,11 +15,42 @@
 
 [Agora.io](https://www.agora.io/en/) •
 [Documentation](https://docs.agora.io/en/) •
-[Voice AI Recipes](https://recipes.agora.io/)
+[Voice AI Recipes](https://recipes.agora.io/) •
+[Agora Skills](https://github.com/AgoraIO/skills) •
+[Agora CLI](https://github.com/AgoraIO/cli)
 
 </div>
 
-## 🤖 Build faster with AI coding agents
+## 🚀 Start building
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎙️ Voice AI agents</h3>
+      <p>Build conversational agents with real-time voice, multimodal input, and your choice of AI models.</p>
+      <p><a href="https://recipes.agora.io/">Start with a Voice AI recipe →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 Build with AI</h3>
+      <p>Give your coding agent Agora knowledge, then create and run projects from the command line.</p>
+      <p><a href="#-build-with-your-coding-agent">Set up the developer tools →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📡 Real-time apps</h3>
+      <p>Add reliable real-time voice and video experiences across web, mobile, and native platforms.</p>
+      <p><a href="#-build-real-time-apps">Explore real-time examples →</a></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+![divider](./assets/agora-divider-light.png#gh-light-mode-only)
+![divider](./assets/agora-divider-dark.png#gh-dark-mode-only)
+
+<br>
+
+## 🤖 Build with your coding agent
 
 ### 🧩 [Agora Skills](https://github.com/AgoraIO/skills)
 
@@ -36,12 +67,17 @@ curl -fsSL https://dl.agora.io/cli/install.sh | sh
 # Windows and restricted-network options: https://github.com/AgoraIO/cli#install
 ```
 
-### 💬 Try it with your coding agent
+<details>
+<summary><b>💬 Try a prompt</b></summary>
+
+<br>
 
 ```text
 # Paste this prompt into your coding agent
 Use Agora Skills and Agora CLI to build a Next.js voice AI agent. Start from the official quickstart, help me sign in, configure an Agora project, and run it locally.
 ```
+
+</details>
 
 <br>
 
