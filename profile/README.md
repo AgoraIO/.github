@@ -1,25 +1,20 @@
+<h1 align="center">Agora for Developers</h1>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/agora-developer-banner-dark.webp">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/agora-developer-banner.webp">
-    <img src="./assets/agora-developer-banner.webp" width="100%" alt="Agora for Developers — Build voice AI agents, multimodal experiences, and real-time apps">
-  </picture>
+  <strong>Build voice AI agents, multimodal experiences, and real-time apps.</strong>
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="https://discord.gg/QfgBCvuX4d"><img src="https://img.shields.io/badge/Community-Join_Discord-5865F2?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Join Discord"></a>
+  <a href="https://x.com/AgoraIO"><img src="https://img.shields.io/badge/Follow-@AgoraIO-111111?style=flat-square&amp;logo=x&amp;logoColor=white" alt="Follow @AgoraIO on X"></a>
+</p>
 
-[![Join Discord](https://img.shields.io/badge/Community-Join_Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/QfgBCvuX4d)
-[![Follow @AgoraIO](https://img.shields.io/badge/Follow-@AgoraIO-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/AgoraIO)
-
-<br>
-
-[Agora.io](https://www.agora.io/en/) •
-[Documentation](https://docs.agora.io/en/) •
-[Voice AI Recipes](https://recipes.agora.io/) •
-[Agora Skills](https://github.com/AgoraIO/skills) •
-[Agora CLI](https://github.com/AgoraIO/cli)
-
-</div>
+<p align="center">
+  <a href="#-start-building">Get Started</a> ·
+  <a href="https://docs.agora.io/en/">Documentation</a> ·
+  <a href="https://recipes.agora.io/">Recipes</a> ·
+  <a href="#-build-with-your-coding-agent">Build with AI</a>
+</p>
 
 ## 🚀 Start building
 
